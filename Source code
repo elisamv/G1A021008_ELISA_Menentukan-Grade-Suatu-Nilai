@@ -1,0 +1,19 @@
+#Nama : Elisa
+#NPM : G1A021008
+
+if score > 95:
+    grade = 'A'
+elif score > 85:
+    grade = 'B+'
+elif score > 75:
+    grade = 'B'
+elif score > 65:
+    grade = 'C+'
+elif score > 40:
+    grade = 'C'
+else :
+    grade = 'D'
+
+score = int(input('What is your score? '))
+
+print('Grade : {}'.format(grade))
