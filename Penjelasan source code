@@ -1,0 +1,22 @@
+#Nama : Elisa
+#NPM : G1A021008
+# berfungsi sebagai komentar yang tidak di eksekusi oleh compiler atau interpreter saat program dijalankan dan memberi suatu informasi
+Score, Grade adalah nama dari input yang akan dikeluarkan nantinya sehingga menjadi output
+
+>, yaitu operasi yang menyatakan nilai lebih besar dari
+
+=, berfungsi mendefinisikan nilai suatu variabel
+
+If digunakan untuk mengeksekusi kode jika kondisi bernilai benar atau true
+
+Elif, merupakan percabangan dari if. Dengan elif kita bisa membuat kode program yang bisa terjadi. Kondisi elif bisa banyak dan tidak hanya satu.
+
+Else, yaitu kode yang digunakan untuk menentukan tindakan apa yang akan diambil sesuai dengan kondisi. Else juga digunakan dieksekusi jika bernilai salah atau false
+
+Int, berfungsi untuk menyatakan bilangan bulat.
+
+Print ( ), berfungsi untuk mencetak pesan tertentu yang terdapat di woeksheed.
+
+Input, merupakan masukan yang pengguna berikan ke program, sehingga python akan memproses dan menampilkan hasilnya pada output.
+
+{ }, kurung kurawal dinamakan  block statement yang gunanya untuk mengurung beberapa statement menjadi 1 statement.
